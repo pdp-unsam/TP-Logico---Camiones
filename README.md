@@ -7,7 +7,7 @@
 
 De cada ciudad se conoce su nombre, los productos que produce y los productos que requiere. 
 
-De los camiones conocemos su patente y otros datos más: 
+De los camiones conocemos su patente y otros datos más, según que tipo de camión sea: 
 * Comun, se sabe el volumen de carga que puede llevar.
 * Semi remolque, se conoce el largo, el ancho y la altura del remolque. 
 * Con acoplado, se registra el volumen de la caja del camion y el del acoplado.
@@ -29,4 +29,3 @@ Se tiene registrado cada uno de los viajes que se realizaron, indicando la ciuda
 - Construir una base de conocimiento con hechos que permitan respuestas variadas de todos los items
 - Mostrar ejemplos de consulta
 - Analizar la inversibilidad de dos de los predicados requeridos, uno que sea inversible y otro que no, justificando conceptualmente. 
-
