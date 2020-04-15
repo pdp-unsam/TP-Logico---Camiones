@@ -2,7 +2,9 @@
 
 ## Realizamos un relevamiento de los principales recorridos de los camiones que van de ciudad en ciudad transportando mercancías. 
 
-!()[camion.jpg]
+![](camion.webp)
+
+
 De cada ciudad se conoce su nombre, los productos que produce y los productos que requiere. 
 
 De los camiones conocemos su patente y otros datos más: 
